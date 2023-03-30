@@ -13,3 +13,27 @@ py script wrote by ChatGPT by OpenAI with the following instructions:
  Before running this script, you'll need to install the PyGithub library using pip, 
  and set an environment variable called 'GITHUB_ACCESS_TOKEN' with a valid GitHub 
  personal access token that has the 'repo' scope. 
+ 
+ 
+ ### modernize-accelerator-git-usage
+1 sentence summary
+badges (https://shields.io/)
+
+# Key Features/Basic Overview/DESCRIPTION
+
+# Installation
+
+# Usage
+
+# Documentation
+
+# Examples
+
+# Contributing
+
+# Acknowledgements
+
+# License
+
+
+
